@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: PQ
+description: 花会枯萎，爱永不凋零
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -33,13 +33,11 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: linhui qiao
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/lhqiao
 google_site_verification: xxxxx
-lang: en
-
+lang: zh
 sass:
   sass_dir: _sass
   style: :compressed
@@ -54,6 +52,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Linhui Qiao
+  url: https://github.com/lhqiao/
+  email: lhqiao95@gmail.com
